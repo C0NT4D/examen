@@ -6,5 +6,5 @@
 6- cat Alumnos.txt | awk '{print $1, $2, $5}'| sed 's/ /-/g'
 7- cat Alumnos.txt | grep -c Gonz\303\241lez
 8- cat Alumnos.txt | sed 's/Vicente/Pepe/g'
-9- Aun no lo sé
+9- cat Alumnos.txt | grep -v 2020
 10- Aun no lo se
