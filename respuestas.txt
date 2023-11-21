@@ -7,3 +7,4 @@
 7- cat Alumnos.txt | grep -c Gonz\303\241lez
 8- cat Alumnos.txt | sed 's/Vicente/Pepe/g'
 9- Aun no lo sé
+10- Aun no lo se
