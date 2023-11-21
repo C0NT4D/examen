@@ -4,3 +4,4 @@
 4- mkdir si
 5-  mv si.txt si
 6- cat Alumnos.txt | awk '{print $1, $2, $5}'| sed 's/ /-/g'
+7- cat Alumnos.txt | grep -c Gonz\303\241lez
